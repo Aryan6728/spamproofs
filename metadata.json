@@ -1,0 +1,5 @@
+{
+  "name": "ZK Proof Spammer",
+  "description": "A web-based platform to simulate generating ZK proofs using Succinct’s SP1 zkVM in a fun, controlled environment. Test performance, learn about ZKPs, and compete on a leaderboard.",
+  "requestFramePermissions": []
+}
